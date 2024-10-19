@@ -17,7 +17,7 @@ This project is a simple web application built with **Flask**, running in **Dock
 - **Containerization**: Uses Docker for containerizing the application, allowing portability and consistency across different environments.
 - **Infrastructure as Code**: Utilizes Terraform to easily define and manage Docker infrastructure.
 
-## Prerequisites
+## 🛠️ Prerequisites
 
 Before you begin, ensure you have the following installed:
 
