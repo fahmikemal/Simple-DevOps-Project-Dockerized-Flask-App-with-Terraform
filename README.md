@@ -30,7 +30,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone this repository**:
 
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/fahmikemal/Simple-DevOps-Project-Dockerized-Flask-App-with-Terraform.git
    cd repository-name
 2. Run Terraform:
    
