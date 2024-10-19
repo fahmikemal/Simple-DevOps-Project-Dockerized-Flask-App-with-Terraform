@@ -31,7 +31,7 @@ Before you begin, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/fahmikemal/Simple-DevOps-Project-Dockerized-Flask-App-with-Terraform.git
-   cd repository-name
+   cd Simple-DevOps-Project-Dockerized-Flask-App-with-Terraform
 2. Run Terraform:
    
    ```bash
